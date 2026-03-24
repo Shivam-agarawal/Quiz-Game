@@ -110,7 +110,7 @@ function selectAnswer(e) {
     button.disabled = true;
     if (button.dataset.correct === "true") {
       button.classList.add("correct");
-    } else {
+    } else if(button === selectedButton){
       button.classList.add("incorrect");
     }
   });
