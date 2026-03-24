@@ -107,7 +107,7 @@ function selectAnswer(e) {
 
   // here array.from is used to convert the HTMLCollection of answer buttons into an array, allowing us to easily iterate over them and disable all buttons after an answer is selected. This prevents the user from changing their answer or selecting multiple answers for the same question.
   Array.from(answersContainer.children).forEach((button) => {
-    button.disabled = true;
+    
     if (button.dataset.correct === "true") {
       button.classList.add("correct");
     } else if(button === selectedButton){
