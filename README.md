@@ -29,9 +29,11 @@ A simple web-based quiz game built with HTML, CSS, and JavaScript.
 - Add or edit questions in the `quizData` array in `script.js`.
 - Update styles in `style.css` as desired.
 
-## Screenshot
+## Screenshots
 
-![Quiz Game Screenshot](Screenshot%202026-03-24%20160203.png)
+![Start Screen](screenshot1.png)
+
+![Quiz Screen](screenshot2.png)
 
 ---
 
