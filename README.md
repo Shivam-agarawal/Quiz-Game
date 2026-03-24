@@ -31,7 +31,7 @@ A simple web-based quiz game built with HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-![Quiz Game Screenshot](screenshot.png)
+![Quiz Game Screenshot](./screenshot.png)
 
 ---
 
